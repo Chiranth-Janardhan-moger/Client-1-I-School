@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 style="font-size: 3rem; background: linear-gradient(90deg, #3b82f6, #22c55e); -webkit-background-clip: text; color: transparent;">
-🎓 i-School
+ i-School
 </h1>
 
 <p align="center" style="margin-top: -6px;">
@@ -122,7 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  Made with ❤️ for i-School
+  Made with ️ for i-School
   <br>
   <sub>An Intelligent School by Edumeta</sub>
 </div>
