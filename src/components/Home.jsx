@@ -60,7 +60,7 @@ const HeroPage = () => {
               <h1 className="text-4xl lg:text-5xl xl:text-6xl sm:text-5xl font-bold leading-tight">
                 <span className="text-blue-400 animate-fade-in-up text-2xl">WELCOME TO</span>
                 <br />
-                <span className="text-gray-800 animate-fade-in-up animation-delay-200"><img src={namelogo} draggable={false} alt="I-School" width={400} /></span>
+                <span className="text-gray-800 animate-fade-in-up animation-delay-200"><img src={namelogo} draggable={false} alt="I-School Logo - Best Kids School in Dasarahalli Bengaluru" width={400} /></span>
             
               </h1>
               
@@ -111,7 +111,7 @@ const HeroPage = () => {
               <div className="w-62 h-86 sm:w-50  sm:h-80 lg:w-[300px] lg:h-[440px] xl:w-[400px] xl:h-[600px] bg-yellow-400 rounded-full flex items-center justify-center overflow-hidden relative hover:bg-yellow-400 transition-colors duration-300 hover:scale-105 transform group cursor-pointer shadow-xl hover:shadow-2xl border-4 border-yellow-400">
                 <img
                   src={img1}
-                  alt="Happy student"
+                  alt="Happy student learning at I-School near Dasarahalli and Hebbal"
                   decoding="async"
                   loading="lazy"
                   draggable={false}
@@ -131,7 +131,7 @@ const HeroPage = () => {
               <div className="w-32 h-32 sm:w-60 sm:h-80  xl:w-48 xl:h-72 lg:h-72 lg:w-48 bg-purple-400 rounded-full overflow-hidden shadow-xl flex items-center justify-center hover:bg-purple-400 transition-colors duration-300 hover:scale-105 transform group cursor-pointer hover:shadow-2xl border-3 border-purple-400">
                 <img
                   src={img2}
-                  alt="Student"
+                  alt="Students participating in creative learning activities at I-School"
                   className="w-28 h-38 sm:w-60 sm:h-80   xl:w-42 xl:h-72 lg:h-72 lg:w-48 object-cover rounded-full group-hover:scale-110 transition-transform duration-500"
                 />
                 <div className="absolute inset-0 rounded-full bg-gradient-to-t from-purple-500/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
@@ -147,7 +147,7 @@ const HeroPage = () => {
               <div className="w-36 h-36 sm:w-50 sm:h-60 xl:w-60 xl:h-72 lg:h-66 lg:w-44 bg-blue-400 rounded-full overflow-hidden shadow-xl flex items-center justify-center hover:bg-blue-400 transition-colors duration-300 hover:scale-105 transform group cursor-pointer hover:shadow-2xl border-3 border-blue-400"> 
                 <img
                   src={img3}
-                  alt="Student"
+                  alt="Kids enjoying fun education activities at I-School Maruthi Layout"
                   className="w-32 h-40 sm:w-50 sm:h-60  xl:w-60 xl:h-72 lg:h-66 lg:w-44 object-cover rounded-full group-hover:scale-110 transition-transform duration-500"
                 />
                 <div className="absolute inset-0 rounded-full bg-gradient-to-t from-blue-500/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>

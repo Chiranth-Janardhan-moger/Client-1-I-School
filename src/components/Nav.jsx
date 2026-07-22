@@ -87,7 +87,7 @@ const Nav = () => {
                     className='cursor-pointer'
                     onClick={() => handleNavigation('/')}
                   >
-                    <img src={logoImage} alt="I-school" width={160} draggable={false} />
+                    <img src={logoImage} alt="I-School Logo - Dasarahalli Bengaluru" width={160} draggable={false} />
                   </span>
                 </div>
               </div>

@@ -8,7 +8,7 @@ const Footer = () => {
         <div>
           <h3 className="text-xl font-bold mb-4">iSchool</h3>
           <p className="text-sm">
-            Inspiring young minds to learn, grow, and shine every day.
+            Inspiring young minds to learn, grow, and shine every day. The best kids school near Dasarahalli, Hebbal, and Kodigehalli Gate.
           </p>
           
         </div>
